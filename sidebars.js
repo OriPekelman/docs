@@ -22,7 +22,7 @@ module.exports = {
       'api-reference/api-endpoints',
       'api-reference/functions',
     ],
-    Deploying: ['deploying/aws', 'deploying/heroku', 'deploying/slack'],
+    Deploying: ['deploying/aws', 'deploying/heroku', 'deploying/platform_sh', 'deploying/slack'],
     'Additional Information': [
       'support',
       'contributing',
